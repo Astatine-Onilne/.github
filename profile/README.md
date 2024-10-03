@@ -1,6 +1,6 @@
 ## What are we?
 - 우리는 한국에서 '무정부' 컨텐츠를 운영합니다.
-- We provide ‘Non-government’ content in Korea.
+- We provide ‘Anarchy’ content in Korea.
 
 ## Short-term Goals
 - 강력한 하드웨어와 스프트웨어를 기반으로 한 렉 없는 서버를 24시간 제공합니다.
